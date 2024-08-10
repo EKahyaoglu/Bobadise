@@ -3,7 +3,7 @@ Bubble tea store finder application that offers personalized recommendations and
 
 Created during the Bobathon Hackathon in May 2024.
 Contributors:
-• Eren Kahyaoglu
+<br> • Eren Kahyaoglu </br>
 • Mainoah Zander Muna
 • Daniel Ogundare
 • Rachel Ellis
