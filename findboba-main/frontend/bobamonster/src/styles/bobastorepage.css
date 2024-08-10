@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-image: linear-gradient(to right, #C4A484, #C4A491);
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.header {
+    background-color: #fff;
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+.header h1 {
+    font-size: 24px;
+    margin: 0;
+}
+
+.order-section {
+    background-color: #fff;
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.order {
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+}
+
+.order:last-child {
+    border-bottom: none;
+}
+
+.order .name {
+    font-weight: bold;
+    color: #333;
+}
+
+.order .price {
+    color: #666;
+    margin-left: 10px;
+}
+
+.order .rating {
+    color: #f90;
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+.order .description {
+    color: #666;
+}
+
+.filter-input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.filter-input:focus {
+    outline: none;
+    border-color: #f90;
+}
+
+.clear-button {
+    padding: 10px 20px;
+    margin-top: 10px;
+    background-color: #f90;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.clear-button:hover {
+    background-color: #ff8c00;
+}
