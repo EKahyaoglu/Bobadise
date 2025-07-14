@@ -2,7 +2,7 @@
 
 Bobadise is a bubble tea store finder app that offers personalized recommendations and a smooth, fun user experience. Create an account, take a personality quiz to discover your bubble tea style, and explore nearby shops with Google Maps integration! ✨
 
-Created during the Bobathon Hackathon in May 2024.
+Created during the BobaTalks – Bobathon Hackathon in May 2024.
 
 ---
 
